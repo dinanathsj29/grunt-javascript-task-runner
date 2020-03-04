@@ -123,7 +123,9 @@ Topics included/covered
    - 1.11 [Who have been using it?](#111-Who-have-been-using-it)
    - 1.12 [Task runners-Tools popular in market](#112-Task-runners-Tools-popular-in-market)
    - 1.13 [Build System around us](#113-Build-System-around-us)
-
+2. [Understand Minify Minification](#2-understand-minify-minification)
+  - 2.1 [Why Minify? Advantages of Minification](#21-why-minify-advantages-of-minification)
+  - 2.2 [Difference-Normal and Minified code](#22-difference-normal-and-minified-code)
 
 1 Introduction to Grunt
 =====================
@@ -255,6 +257,36 @@ Topics included/covered
   <figure>
     &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide13.png" alt="Grunt-The JavaScript Task Runner - Build System around us" title="Grunt-The JavaScript Task Runner - Build System around us" width="1000" border="2" />
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Build System around us</figcaption>
+  </figure>
+</p>
+
+2 Understand Minify Minification
+=====================
+
+2.1. Why Minify? Advantages of Minification
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide14.png" alt="Grunt-Why Minify? Advantages of Minification" title="Grunt-Why Minify? Advantages of Minification" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-Why Minify? Advantages of Minification</figcaption>
+  </figure>
+</p>
+
+2.2. Difference-Normal and Minified code
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide15.png" alt="Grunt-The JavaScript Task Runner - Difference-Normal and Minified code" title="Grunt-The JavaScript Task Runner - Difference-Normal and Minified code" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Difference-Normal and Minified code</figcaption>
+  </figure>
+</p>
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide16.png" alt="Grunt-The JavaScript Task Runner - Difference-Normal and Minified code" title="Grunt-The JavaScript Task Runner - Difference-Normal and Minified code" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Difference-Normal and Minified code</figcaption>
   </figure>
 </p>
 

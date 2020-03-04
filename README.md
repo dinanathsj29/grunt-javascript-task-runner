@@ -104,3 +104,58 @@ Prerequisites for current course / What you need to know
 - JavaScript (good to know - understand the basis of JavaScript)
 - How to use a text editor such as Notepad++, Sublime Text and/or IDE like Visual Studio Code 
 - Some programming background or Coding knowledge is preferred
+
+
+Topics included/covered
+=====================
+
+1. [Introduction to Grunt](#1-introduction-to-grunt)
+  - 1.1 [Grunt-The JavaScript Task Runner](#11-grunt-the-javaScript-task-runner)
+  - 1.2 [Welcome](#12-Welcome)
+  - 1.3 [Agenda](#13-Agenda)
+  - 1.4 [What You will Learn](#14-what-you-will-learn)
+
+
+1 Introduction to Grunt
+=====================
+
+1.1. Grunt-The JavaScript Task Runner
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide1.png" alt="Grunt-The JavaScript Task Runner - Banner" title="Grunt-The JavaScript Task Runner - Banner" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Banner</figcaption>
+  </figure>
+</p>
+
+1.2. Welcome
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide2.png" alt="Grunt-The JavaScript Task Runner - Welcome" title="Grunt-The JavaScript Task Runner - Welcome" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Welcome</figcaption>
+  </figure>
+</p>
+
+1.3. Agenda
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide3.png" alt="Grunt-The JavaScript Task Runner - Agenda" title="Grunt-The JavaScript Task Runner - Agenda" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Agenda</figcaption>
+  </figure>
+</p>
+
+1.4. What You will Learn
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide4.png" alt="Grunt-The JavaScript Task Runner - What You will Learn" title="Grunt-The JavaScript Task Runner - What You will Learn" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - What You will Learn</figcaption>
+  </figure>
+</p>
+

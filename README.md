@@ -114,6 +114,15 @@ Topics included/covered
    - 1.2 [Welcome](#12-Welcome)
    - 1.3 [Agenda](#13-Agenda)
    - 1.4 [What You will Learn](#14-what-you-will-learn)
+   - 1.5 [General Web-UI Development Tasks](#15-General-Web-UI-Development-Tasks)
+   - 1.6 [Automating Tasks-different approach](#16-Automating-Tasks-different-approach)
+   - 1.7 [What is Grunt?](#17-What-is-Grunt?)
+   - 1.8 [Task based-Task Automation](#18-Task-based-Task-Automation)
+   - 1.9 [What does a task runner do?](#19-What-does-a-task-runner-do?)
+   - 1.10 [Why Grunt?](#110-Why-Grunt?)
+   - 1.11 [Who have been using it?](#111-Who-have-been-using-it?)
+   - 1.12 [Task runners-Tools popular in market](#112-Task-runners-Tools-popular-in-market)
+   - 1.13 [Build System around us](#113-Build-System-around-us)
 
 
 1 Introduction to Grunt
@@ -156,6 +165,96 @@ Topics included/covered
   <figure>
     &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide4.png" alt="Grunt-The JavaScript Task Runner - What You will Learn" title="Grunt-The JavaScript Task Runner - What You will Learn" width="1000" border="2" />
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - What You will Learn</figcaption>
+  </figure>
+</p>
+
+1.5. General Web-UI Development Tasks
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide5.png" alt="Grunt-The JavaScript Task Runner - General Web-UI Development Tasks" title="Grunt-The JavaScript Task Runner - General Web-UI Development Tasks" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - General Web-UI Development Tasks</figcaption>
+  </figure>
+</p>
+
+1.6. Automating Tasks-different approach
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide6.png" alt="Grunt-The JavaScript Task Runner - Automating Tasks-different approach" title="Grunt-The JavaScript Task Runner - Automating Tasks-different approach" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Automating Tasks-different approach</figcaption>
+  </figure>
+</p>
+
+1.7. What is Grunt?
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide7.png" alt="Grunt-The JavaScript Task Runner - What is Grunt?" title="Grunt-The JavaScript Task Runner - What is Grunt?" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - What is Grunt?</figcaption>
+  </figure>
+</p>
+
+1.8. Task based-Task Automation
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide8.png" alt="Grunt-The JavaScript Task Runner - Task based-Task Automation" title="Grunt-The JavaScript Task Runner - Task based-Task Automation" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Task based-Task Automation</figcaption>
+  </figure>
+</p>
+
+1.9. What does a task runner do?
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide9.png" alt="Grunt-The JavaScript Task Runner - What does a task runner do?" title="Grunt-The JavaScript Task Runner - What does a task runner do?" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - What does a task runner do?</figcaption>
+  </figure>
+</p>
+
+1.10. Why Grunt?
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide10.png" alt="Grunt-The JavaScript Task Runner - Why Grunt?" title="Grunt-The JavaScript Task Runner - Why Grunt?" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Why Grunt?</figcaption>
+  </figure>
+</p>
+
+1.11. Who have been using it?
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide11.png" alt="Grunt-The JavaScript Task Runner - Who have been using it?" title="Grunt-The JavaScript Task Runner - Who have been using it?" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Who have been using it?</figcaption>
+  </figure>
+</p>
+
+1.12. Task runners-Tools popular in market
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide12.png" alt="Grunt-The JavaScript Task Runner - Task runners-Tools popular in market" title="Grunt-The JavaScript Task Runner - Task runners-Tools popular in market" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Task runners-Tools popular in market</figcaption>
+  </figure>
+</p>
+
+1.13. Build System around us
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide13.png" alt="Grunt-The JavaScript Task Runner - Build System around us" title="Grunt-The JavaScript Task Runner - Build System around us" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Build System around us</figcaption>
   </figure>
 </p>
 

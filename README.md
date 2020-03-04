@@ -110,10 +110,10 @@ Topics included/covered
 =====================
 
 1. [Introduction to Grunt](#1-introduction-to-grunt)
-  - 1.1 [Grunt-The JavaScript Task Runner](#11-grunt-the-javaScript-task-runner)
-  - 1.2 [Welcome](#12-Welcome)
-  - 1.3 [Agenda](#13-Agenda)
-  - 1.4 [What You will Learn](#14-what-you-will-learn)
+   - 1.1 [Grunt-The JavaScript Task Runner](#11-grunt-the-javaScript-task-runner)
+   - 1.2 [Welcome](#12-Welcome)
+   - 1.3 [Agenda](#13-Agenda)
+   - 1.4 [What You will Learn](#14-what-you-will-learn)
 
 
 1 Introduction to Grunt

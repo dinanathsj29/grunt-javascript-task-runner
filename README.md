@@ -126,6 +126,16 @@ Topics included/covered
 2. [Understand Minify Minification](#2-understand-minify-minification)
   - 2.1 [Why Minify? Advantages of Minification](#21-why-minify-advantages-of-minification)
   - 2.2 [Difference-Normal and Minified code](#22-difference-normal-and-minified-code)
+3. [Installation and Setup](#3-installation-and-setup)
+  - 3.1 [Pre-requisites? How Do I start? Node-NPM](#31-pre-requisites-how-do-i-start-node-npm)
+  - 3.2 [NODE-NODEJS](#32-node-nodejs)
+  - 3.3 [NPM](#33-npm)
+  - 3.4 [Installing NODE and NPM](#34-installing-node-and-npm)
+  - 3.5 [Installing GRUNT-CLI](#35-installing-grunt-cli)
+  - 3.6 [Installing GRUNT-package.json](#36-installing-grunt-package.json)
+  - 3.7 [More on package.json](#37-more-on-package.json)
+  - 3.8 [More on package.json-Look like](#38-more-on-package.json-Look-like)
+
 
 1 Introduction to Grunt
 =====================
@@ -290,3 +300,105 @@ Topics included/covered
   </figure>
 </p>
 
+3 Installation and Setup
+=====================
+
+3.1 Pre-requisites? How Do I start? Node-NPM
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide17.png" alt="Grunt-The JavaScript Task Runner - Pre-requisites? How Do I start? Node-NPM" title="Grunt-The JavaScript Task Runner - Pre-requisites? How Do I start? Node-NPM" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Pre-requisites? How Do I start? Node-NPM</figcaption>
+  </figure>
+</p>
+
+
+3.2 NODE-NODEJS
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide18.png" alt="Grunt-The JavaScript Task Runner - NODE-NODEJS" title="Grunt-The JavaScript Task Runner - NODE-NODEJS" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - NODE-NODEJS</figcaption>
+  </figure>
+</p>
+
+3.3 NPM
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide19.png" alt="Grunt-The JavaScript Task Runner - NPM" title="Grunt-The JavaScript Task Runner - NPM" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - NPM</figcaption>
+  </figure>
+</p>
+
+
+3.4 Installing NODE and NPM
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide20.png" alt="Grunt-The JavaScript Task Runner - NPM" title="Grunt-The JavaScript Task Runner - Installing NODE and NPM" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Installing NODE and NPM</figcaption>
+  </figure>
+</p>
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide21.png" alt="Grunt-The JavaScript Task Runner - Installing NODE and NPM" title="Grunt-The JavaScript Task Runner - Installing NODE and NPM" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Installing NODE and NPM</figcaption>
+  </figure>
+</p>
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide22.png" alt="Grunt-The JavaScript Task Runner - Installing NODE and NPM" title="Grunt-The JavaScript Task Runner - Installing NODE and NPM" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Installing NODE and NPM</figcaption>
+  </figure>
+</p>
+
+
+3.5 Installing GRUNT-CLI
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide23.png" alt="Grunt-The JavaScript Task Runner - Installing NODE and NPM" title="Grunt-The JavaScript Task Runner - Installing NODE and NPM" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Installing NODE and NPM</figcaption>
+  </figure>
+</p>
+
+
+3.6 Installing GRUNT-package.json
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide24.png" alt="Grunt-The JavaScript Task Runner - Installing GRUNT-package.json" title="Grunt-The JavaScript Task Runner - Installing GRUNT-package.json" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Installing GRUNT-package.json</figcaption>
+  </figure>
+</p>
+
+
+3.7 More on package.json
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide25.png" alt="Grunt-The JavaScript Task Runner - More on package.json" title="Grunt-The JavaScript Task Runner - More on package.json" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - More on package.json</figcaption>
+  </figure>
+</p>
+
+
+3.8 More on package.json-Look like
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide26.png" alt="Grunt-The JavaScript Task Runner - More on package.json-Look like" title="Grunt-The JavaScript Task Runner - More on package.json-Look like" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - More on package.json-Look like</figcaption>
+  </figure>
+</p>

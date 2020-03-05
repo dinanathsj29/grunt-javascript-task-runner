@@ -135,7 +135,13 @@ Topics included/covered
    - 3.6 [Installing GRUNT-package.json](#36-installing-grunt-packagejson)
    - 3.7 [More on package.json](#37-more-on-packagejson)
    - 3.8 [More on package.json-Look like](#38-more-on-packagejson-Look-like)
-
+4. [Using Grunt](#4-using-grunt)
+   - 4.1 [Working with Grunt-Using Grunt](#41-working-with-grunt-using-grunt)
+   - 4.2 [Create gruntfile.js](#42-create-gruntfilejs)
+   - 4.3 [More on gruntfile.js](#43-more-on-gruntfilejs)
+   - 4.4 [Overview of gruntfile.js](#44-overview-of-gruntfilejs)
+   - 4.5 [Best Coding practices for minification](#4.5-best-coding-practices-for-minification)
+   - 4.6 [Best Coding practices for minification-IE](#4.6-best-coding-practices-for-minification-ie)
 
 1 Introduction to Grunt
 =====================
@@ -400,5 +406,81 @@ Topics included/covered
   <figure>
     &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide26.png" alt="Grunt-The JavaScript Task Runner - More on package.json-Look like" title="Grunt-The JavaScript Task Runner - More on package.json-Look like" width="1000" border="2" />
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - More on package.json-Look like</figcaption>
+  </figure>
+</p>
+
+4 Using Grunt
+=====================
+
+4.1. Working with Grunt-Using Grunt
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide27.png" alt="Grunt-The JavaScript Task Runner - Working with Grunt-Using Grunt" title="Grunt-The JavaScript Task Runner - Working with Grunt-Using Grunt" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Working with Grunt-Using Grunt</figcaption>
+  </figure>
+</p>
+
+4.2. Create gruntfile.js
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide28.png" alt="Grunt-The JavaScript Task Runner - Create gruntfile.js" title="Grunt-The JavaScript Task Runner - Create gruntfile.js" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Create gruntfile.js
+</figcaption>
+  </figure>
+</p>
+
+4.3. More on gruntfile.js
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide29.png" alt="Grunt-The JavaScript Task Runner - More on gruntfile.js" title="Grunt-The JavaScript Task Runner - More on gruntfile.js" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - More on gruntfile.js
+</figcaption>
+  </figure>
+</p>
+
+4.4. Overview of gruntfile.js
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide30.png" alt="Grunt-The JavaScript Task Runner - Overview of gruntfile.js" title="Grunt-The JavaScript Task Runner - Overview of gruntfile.js" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Overview of gruntfile.js
+</figcaption>
+  </figure>
+</p>
+
+4.5. Best Coding practices for minification
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide31.png" alt="Grunt-The JavaScript Task Runner - Best Coding practices for minification" title="Grunt-The JavaScript Task Runner - Best Coding practices for minification" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Best Coding practices for minification
+</figcaption>
+  </figure>
+</p>
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide32.png" alt="Grunt-The JavaScript Task Runner - Best Coding practices for minification" title="Grunt-The JavaScript Task Runner - Best Coding practices for minification" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Best Coding practices for minification
+</figcaption>
+  </figure>
+</p>
+
+4.6. Best Coding practices for minification-IE
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide33.png" alt="Grunt-The JavaScript Task Runner - Best Coding practices for minification-IE" title="Grunt-The JavaScript Task Runner - Best Coding practices for minification-IE" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Best Coding practices for minification-IE
+</figcaption>
   </figure>
 </p>

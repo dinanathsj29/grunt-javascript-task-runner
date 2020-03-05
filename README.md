@@ -140,8 +140,8 @@ Topics included/covered
    - 4.2 [Create gruntfile.js](#42-create-gruntfilejs)
    - 4.3 [More on gruntfile.js](#43-more-on-gruntfilejs)
    - 4.4 [Overview of gruntfile.js](#44-overview-of-gruntfilejs)
-   - 4.5 [Best Coding practices for minification](#4.5-best-coding-practices-for-minification)
-   - 4.6 [Best Coding practices for minification-IE](#4.6-best-coding-practices-for-minification-ie)
+   - 4.5 [Best Coding practices for minification](#45-best-coding-practices-for-minification)
+   - 4.6 [Best Coding practices for minification-IE](#46-best-coding-practices-for-minification-ie)
 
 1 Introduction to Grunt
 =====================

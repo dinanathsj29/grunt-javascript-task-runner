@@ -142,6 +142,15 @@ Topics included/covered
    - 4.4 [Overview of gruntfile.js](#44-overview-of-gruntfilejs)
    - 4.5 [Best Coding practices for minification](#45-best-coding-practices-for-minification)
    - 4.6 [Best Coding practices for minification-IE](#46-best-coding-practices-for-minification-ie)
+5. [Demo and Resources](#5-demo-and-resources)
+   - 5.1. [Demo](#51-Demo)
+   - 5.2. [Useful NODE NPM commands](#52-useful-node-npm-commands)
+   - 5.3. [Useful Websites Resources](#53-useful-websites-resources)
+   - 5.4. [What You Learnt](#54-what-you-learnt)
+   - 5.5. [Q and A](#55-q-and-a)
+   - 5.6. [Feedback ](#56-feedback)
+   - 5.7. [Refinements and Improvements](#57-refinements-and-improvements)
+   - 5.8. [Thank You](#58-thank-you)
 
 1 Introduction to Grunt
 =====================
@@ -482,5 +491,90 @@ Topics included/covered
     &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide33.png" alt="Grunt-The JavaScript Task Runner - Best Coding practices for minification-IE" title="Grunt-The JavaScript Task Runner - Best Coding practices for minification-IE" width="1000" border="2" />
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Best Coding practices for minification-IE
 </figcaption>
+  </figure>
+</p>
+
+5 Demo and Resources
+=====================
+
+5.1. Demo
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide34.png" alt="Grunt-The JavaScript Task Runner - Demo" title="Grunt-The JavaScript Task Runner - Demo" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Demo</figcaption>
+  </figure>
+</p>
+
+5.2. Useful NODE NPM commands
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide35.png" alt="Grunt-The JavaScript Task Runner - Useful NODE NPM commands" title="Grunt-The JavaScript Task Runner - Useful NODE NPM commands" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Useful NODE NPM commands
+</figcaption>
+  </figure>
+</p>
+
+5.3. Useful Websites Resources
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide36.png" alt="Grunt-The JavaScript Task Runner - Useful Websites Resources" title="Grunt-The JavaScript Task Runner - Useful Websites Resources" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Useful Websites Resources</figcaption>
+  </figure>
+</p>
+
+
+5.4. What You Learnt
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide37.png" alt="Grunt-The JavaScript Task Runner - What You Learnt" title="Grunt-The JavaScript Task Runner - What You Learnt" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - What You Learnt</figcaption>
+  </figure>
+</p>
+
+5.5. Q and A
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide38.png" alt="Grunt-The JavaScript Task Runner - Q and A" title="Grunt-The JavaScript Task Runner - Q and A" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Q and A</figcaption>
+  </figure>
+</p>
+
+5.6. Feedback
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide39.png" alt="Grunt-The JavaScript Task Runner - Feedback" title="Grunt-The JavaScript Task Runner - Feedback" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Feedback</figcaption>
+  </figure>
+</p>
+
+5.7. Refinements and Improvements
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide40.png" alt="Grunt-The JavaScript Task Runner - Refinements and Improvements" title="Grunt-The JavaScript Task Runner - Refinements and Improvements" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Refinements and Improvements</figcaption>
+  </figure>
+</p>
+
+5.8. Thank You
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-grunt-javascript-task-runner/Slide41.png" alt="Grunt-The JavaScript Task Runner - Thank You" title="Grunt-The JavaScript Task Runner - Thank You" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Grunt-The JavaScript Task Runner - Thank You</figcaption>
   </figure>
 </p>
